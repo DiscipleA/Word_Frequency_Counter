@@ -21,8 +21,8 @@ This Java program reads text input from the user and calculates the frequency of
 
 ▶️ How to Run
 
-    Clone this repository or download the .java file.
-    Compile and run the program:
+Clone this repository or download the .java file.
+Compile and run the program:
 
     ```
     javac Word_Frequency_Counter.java
@@ -39,5 +39,5 @@ This Java program reads text input from the user and calculates the frequency of
 
 📹 Demo
 
-    Check out the YouTube video (https://youtu.be/laWnGOtIkOU)for a demonstration.
+Check out the YouTube video (https://youtu.be/laWnGOtIkOU)for a demonstration.
 
